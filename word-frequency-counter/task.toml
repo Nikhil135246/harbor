@@ -1,0 +1,9 @@
+[task]
+command = ["bash", "/app/entrypoint.sh"]
+artifacts = ["/app/output.txt"]
+
+[verifier]
+timeout_sec = 300
+command = ["bash", "/tests/test.sh"]
+artifacts = ["/logs/verifier/reward.txt"]
+# ... (keep other sections metadata/agent/environment same as before)
