@@ -8,11 +8,11 @@ Oracle/NOP validation results (2026-01-29):
 
 Screenshots (paths relative to this README):
 
-![Oracle result](screenshot/Oracle.png)
+![Oracle result](word-frequency-counter/screenshot/Oracle.png)
 
-![NOP result](screenshot/NOP%20_validation.png)
+![NOP result](word-frequency-counter/screenshot/NOP%20_validation.png)
 
-![Ruff check](screenshot/Screenshot%202026-01-29%20021148.png)
+![Ruff check](word-frequency-counter/screenshot/Screenshot%202026-01-29%20021148.png)
 
 ## 📋 Task Overview
 
